@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     height: 100vh;
 }
@@ -36,7 +37,6 @@ body {
 .container-button {
     border-radius: 5px;
     padding: 20px;
-
     margin-left: 150px;
     margin-right: 150px;
 }
@@ -70,5 +70,16 @@ body {
     background-color: white;
 }
 
+.sections {
+    padding-top: 20px;
+}
 
+h4 {
+    padding-top: 10px;
+    font-weight: normal;
+    font-size: 18px;
+}
 
+h3 {
+    font-size: 24px;
+}
