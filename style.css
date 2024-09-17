@@ -25,3 +25,16 @@
 }
 
 
+.box-button {
+    background-color: #33b2f7;
+    border-radius: 5px;
+    padding: 15px;
+    max-width: 800px;
+}
+
+.box-list {
+    background-color: #33b2f7;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    max-width: 800px;
+}
