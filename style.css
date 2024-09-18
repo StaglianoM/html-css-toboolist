@@ -121,3 +121,13 @@ h3 {
 .sales {
     background-color: #b0c926;
 }
+
+.check-icon {
+    border: 2px solid;
+    display: inline-block;
+    color: green;
+    border-radius: 15px;
+    width: 30px;
+    text-align: center;
+}
+
